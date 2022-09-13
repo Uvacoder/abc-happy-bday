@@ -1,4 +1,4 @@
-# 🎉 hbd.today 🎉
+# 🎉 🎉
 
 send a simple, fun, virtual birthday card!
 
